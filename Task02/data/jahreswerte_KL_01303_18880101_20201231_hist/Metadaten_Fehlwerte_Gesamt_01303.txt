@@ -1,0 +1,12 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+1303;Essen-Bredeney;JA_RR;01.01.1888;31.12.2019;12;Gesamt_Messzeitraum;eor;                                                                                                                             
+1303;Essen-Bredeney;JA_FK;01.01.1888;31.12.2020;13;Gesamt_Messzeitraum;eor;                                                                                                                             
+1303;Essen-Bredeney;JA_TT;01.01.1888;31.12.2020;8;Gesamt_Messzeitraum;eor;                                                                                                                              
+1303;Essen-Bredeney;JA_TX;01.01.1888;31.12.2020;5;Gesamt_Messzeitraum;eor;                                                                                                                              
+1303;Essen-Bredeney;JA_TN;01.01.1888;31.12.2020;4;Gesamt_Messzeitraum;eor;                                                                                                                              
+1303;Essen-Bredeney;JA_N;01.01.1888;31.12.2015;12;Gesamt_Messzeitraum;eor;                                                                                                                              
+1303;Essen-Bredeney;JA_MX_TX;01.01.1888;31.12.2020;4;Gesamt_Messzeitraum;eor;                                                                                                                           
+1303;Essen-Bredeney;JA_MX_TN;01.01.1888;31.12.2020;4;Gesamt_Messzeitraum;eor;                                                                                                                           
+1303;Essen-Bredeney;JA_MX_FX;01.01.1888;31.12.2020;14;Gesamt_Messzeitraum;eor;                                                                                                                          
+1303;Essen-Bredeney;JA_MX_RS;01.01.1888;31.12.2019;4;Gesamt_Messzeitraum;eor;                                                                                                                           
+1303;Essen-Bredeney;JA_SD_S;01.01.1888;31.12.2020;8;Gesamt_Messzeitraum;eor;                                                                                                                            

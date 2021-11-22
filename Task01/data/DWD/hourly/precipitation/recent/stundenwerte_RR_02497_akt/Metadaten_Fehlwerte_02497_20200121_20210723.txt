@@ -1,0 +1,4 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+2497;Kall-Sistig;R1;27.12.2020-01:00;27.12.2020-06:00;5;;eor;                                                                                                                                           
+2497;Kall-Sistig;RS_IND;27.12.2020-01:00;27.12.2020-06:00;5;;eor;                                                                                                                                       
+generiert: 24.07.2021 --  Deutscher Wetterdienst  --                                                                                                                                                    

@@ -1,0 +1,7 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+1303;Essen-Bredeney;R1;21.01.2020;24.07.2021;7;Gesamt_Messzeitraum;eor;                                                                                                                                 
+1303;Essen-Bredeney;RS_IND;21.01.2020;24.07.2021;7;Gesamt_Messzeitraum;eor;                                                                                                                             
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+1303;Essen-Bredeney;R1;15.01.2021-03:00;15.01.2021-10:00;7;;eor;                                                                                                                                        
+1303;Essen-Bredeney;RS_IND;15.01.2021-03:00;15.01.2021-10:00;7;;eor;                                                                                                                                    
+generiert: 24.07.2021 --  Deutscher Wetterdienst  --                                                                                                                                                    

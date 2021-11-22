@@ -1,0 +1,4 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+2497;Kall-Sistig;R1;21.01.2020;24.07.2021;5;Gesamt_Messzeitraum;eor;                                                                                                                                    
+2497;Kall-Sistig;RS_IND;21.01.2020;24.07.2021;5;Gesamt_Messzeitraum;eor;                                                                                                                                
+2497;Kall-Sistig;WRTR;21.01.2020;25.07.2021; - ;WRTR wurde nicht gemessen.;eor;                                                                                                                         

@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1303;Essen-Bredeney;6.97;51.41;152;1;19950901;20000725;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;1;20000726;20040203;NG 200;Niederschlagsdauer, -menge, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;2;20000726;20040310;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;1;20040311;20051207;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;1;20051208;20080417;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;1;20080418;20210723;Niederschlagswächter;Niederschlagsdauer, elektr.;eor;
+generiert: 24.07.2021 --  Deutscher Wetterdienst  --

@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  2497;  525.00; 50.5045;  6.5156;18970101;19680805;Kall-Sistig
+  2497;  505.00; 50.5013;  6.5260;19680806;19970623;Kall-Sistig
+  2497;  505.00; 50.5014;  6.5264;19970624;        ;Kall-Sistig

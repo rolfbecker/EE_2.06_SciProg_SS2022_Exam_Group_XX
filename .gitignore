@@ -1,0 +1,24 @@
+# EE_2.06_SciProg SS2021 Exam 
+# R. Becker, 2021-07-24, V001
+
+# Use .gitignore to not share all solutions at once.
+# By default ignore all directories containing solutions denoted by trailing pattern _soln
+
+*_soln/
+*_dev/
+*_old/
+*_INCLASS/
+tmp/
+
+*_soln.ipynb
+*_dev.ipynb
+
+*.ipynb_checkpoints/
+
+*_old
+*checkpoint.ipynb
+
+
+# Exceptions allow to disseminate the solutions selectively.
+#!nb0741_Acid_Titration_V001_soln.ipynb
+#!nb0241_numpy_read_differentiate_integrate_EXERCISE_soln.ipynb

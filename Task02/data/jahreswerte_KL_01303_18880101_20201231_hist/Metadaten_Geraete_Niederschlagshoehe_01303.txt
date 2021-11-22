@@ -1,0 +1,16 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1303;Essen;7.01;51.45;105;;18980101;19030430;Niederschlagsmesser, unbekannt;Niederschlagsmenge, konv.;eor;
+1303;Essen;7.02;51.44;106;;19030501;19131231;Niederschlagsmesser, unbekannt;Niederschlagsmenge, konv.;eor;
+1303;Essen;6.98;51.43;107;;19140101;19270731;Niederschlagsmesser, unbekannt;Niederschlagsmenge, konv.;eor;
+1303;Essen-Mülheim;6.94;51.41;120;;19270801;19450508;Niederschlagsmesser, unbekannt;Niederschlagsmenge, konv.;eor;
+1303;Essen-Mülheim;6.93;51.42;120;;19450509;19470930;Niederschlagsmesser, unbekannt;Niederschlagsmenge, konv.;eor;
+1303;Essen-Mülheim;6.94;51.41;120;1;19471001;19650711;Hellmann;Niederschlagsmenge, konv.;eor;
+1303;Essen-Bredeney;6.97;51.41;153.5;1;19650712;19850526;Hellmann;Niederschlagsmenge, konv.;eor;
+1303;Essen-Bredeney;6.97;51.41;152;1;19850527;20000725;Hellmann;Niederschlagsmenge, konv.;eor;
+1303;Essen-Bredeney;6.97;51.41;152;1;19890428;20000725;NG 200, Tröpfchenzähler;Niederschlagsdauer, -menge, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;1;20000726;20040203;NG 200, Tröpfchenzähler;Niederschlagsdauer, -menge, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;1;20040204;20051207;Niederschlagssensor nach Joss-Tognini;Niederschlagsmenge, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;1;20051208;20110413;PLUVIO;Niederschlagsmenge, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;1;20111117;20171120;PLUVIO;Niederschlagsmenge, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;1;20171121;20210327;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 15.04.2021 --  Deutscher Wetterdienst  --

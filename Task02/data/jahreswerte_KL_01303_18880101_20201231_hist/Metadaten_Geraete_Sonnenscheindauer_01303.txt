@@ -1,0 +1,17 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1303;Essen-Mülheim;6.94;51.41;120;23;19360101;19450508;Sonnenscheinschreiber, unbekannt;Sonnenscheinregistrierung, konv.;eor;
+1303;Essen-Mülheim;6.93;51.42;120;23;19450509;19470930;Sonnenscheinschreiber, unbekannt;Sonnenscheinregistrierung, konv.;eor;
+1303;Essen-Mülheim;6.94;51.41;120;11;19471001;19561231;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1303;Essen-Mülheim;6.94;51.41;120;1.5;19570101;19650711;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1303;Essen-Bredeney;6.97;51.41;153.5;13.7;19650712;19850526;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1303;Essen-Bredeney;6.97;51.41;152;13.7;19850527;19991130;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1303;Essen-Bredeney;6.97;51.41;152;2;19940501;20000725;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;2;20000726;20000903;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;12;20000904;20051207;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;12;20051208;20180816;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;12;20180822;20190826;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;12;20190829;20200807;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;12;20200810;20201112;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;12;20201120;20210111;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;12;20210115;20210327;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+generiert: 15.04.2021 --  Deutscher Wetterdienst  --
