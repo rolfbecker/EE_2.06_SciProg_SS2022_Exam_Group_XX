@@ -1,4 +1,4 @@
-# EE_2.06_SciProg_SS202S_Exam_Group_XX
+# EE_2.06_SciProg_SS2022_Exam_Group_XX
 
 ## General Infos
 
