@@ -1,6 +1,7 @@
-# Task 03: PV Performance
+# Task 03: Produce short videos explaining your work.
 
-You will use selected methods from the [**PV Performance Modeling Collaborative (PVPMC)**](https://pvpmc.sandia.gov/) at Sandia National Labs.
+Produce short videos explaining your work using your Jupyter notebooks. Save the videos in the local subfolder [videos](./videos/). They will be part of the zip file you upload to Moodle.
 
-The details of this task are given in the respective [**Jupyter Notebook**](Task03_PV.ipynb) in this folder.
+**Do NOT take video recordings from your computer screen with your smartphone!** Use professional screencast software such as OBS or similar.
 
+In case the videos become too large Moodle would refuse the file to be uploaded. Then we have to find another way, e.g. providing a sciebo upload area. 
