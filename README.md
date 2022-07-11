@@ -16,6 +16,11 @@
 1. **Just one group member should upload** the report to save space on Moodle. 
 <br>The upload area will be published in the [**SciProg SS2022 Moodle Course**](https://moodle.hochschule-rhein-waal.de/course/view.php?id=15216).
 
+## Task 00: Rules, Guidelines, and Tutorials
+
+[Task00](Task00/README.md) (ready)
+
+
 ## Task 01: Regional Flash Flood in Germany on 2021-07-14
 
 [Task01](Task01/README.md) (ready)
