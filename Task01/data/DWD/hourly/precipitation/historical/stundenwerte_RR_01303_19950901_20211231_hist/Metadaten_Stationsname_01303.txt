@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1303;Essen                                   ;18970801;19270731
+  1303;Essen-Mülheim                           ;19270801;19650711
+  1303;Essen-Bredeney                          ;19650712;
