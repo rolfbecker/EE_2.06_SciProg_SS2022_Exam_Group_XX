@@ -22,7 +22,7 @@
 
 ## Task 02: PV Performance (NOT READY YET)
 
-[Task03](Task02/README.md) (ready)
+[Task02](Task02/README.md) (ready)
 
 ## Task 03: Videos
 
