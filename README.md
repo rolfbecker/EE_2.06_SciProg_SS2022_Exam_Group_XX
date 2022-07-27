@@ -2,7 +2,7 @@
 
 ## General Infos
 
-1. Due date is 2022-08-18.
+1. Due date is **2022-08-31**.
 1. You can withdraw from the exam up to one week before the exam.
 1. You can work in groups of two students or alone.
 1. Assign yourself to a [**SciProg SS2022 Moodle Group**](https://moodle.hochschule-rhein-waal.de/mod/choicegroup/view.php?id=367938), even if you are working alone.
