@@ -25,9 +25,9 @@
 
 [Task01](Task01/README.md) (ready)
 
-## Task 02: PV Performance (NOT READY YET)
+## Task 02: PV Performance
 
-[Task02](Task02/README.md) (not ready yet)
+[Task02](Task02/README.md) (ready)
 
 ## Task 03: Videos
 
